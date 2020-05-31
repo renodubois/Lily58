@@ -26,7 +26,7 @@
 When using the diode with a foot attached, it is necessary to minimize the protrusion of the soldered surface. (Cut the legs before soldering) **
 
 This PCB is reversible, so we will mount the components on each side. The side on which the diode is mounted (the side where you can see the orange parts) is the back side.
-! [img_2008](https://user-images.githubusercontent.com/6285554/52172886-61d20700-27bc-11e9-888f-42a95c7dd569.JPG)
+![img_2008](https://user-images.githubusercontent.com/6285554/52172886-61d20700-27bc-11e9-888f-42a95c7dd569.JPG)
 Seen from the side, it looks like this
 ! [PCB2](https://user-images.githubusercontent.com/6285554/51115630-2642bd80-184c-11e9-93e5-8f85ee5e45b0.png)
 
